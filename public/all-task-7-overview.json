@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Empresa Exemplo 1",
+    "description": "Uma empresa de exemplo para demonstração do dashboard",
+    "reviews": 150,
+    "rating": 4.5,
+    "website": "https://exemplo1.com",
+    "phone": "+55 11 99999-9999",
+    "is_spending_on_ads": true,
+    "can_claim": false,
+    "competitors": ["Concorrente A", "Concorrente B"],
+    "review_keywords": ["excelente", "qualidade", "recomendo"]
+  },
+  {
+    "name": "Empresa Exemplo 2",
+    "description": "Segunda empresa de exemplo com dados diferentes",
+    "reviews": 75,
+    "rating": 3.8,
+    "website": "",
+    "phone": "",
+    "is_spending_on_ads": false,
+    "can_claim": true,
+    "competitors": [],
+    "review_keywords": ["bom", "preço justo"]
+  },
+  {
+    "name": "Empresa Exemplo 3",
+    "description": "Terceira empresa para mostrar variedade de dados",
+    "reviews": 300,
+    "rating": 4.9,
+    "website": "https://exemplo3.com.br",
+    "phone": "+55 21 88888-8888",
+    "is_spending_on_ads": true,
+    "can_claim": true,
+    "competitors": ["Concorrente X", "Concorrente Y", "Concorrente Z"],
+    "review_keywords": ["fantástico", "melhor da região", "atendimento perfeito"]
+  }
+]
